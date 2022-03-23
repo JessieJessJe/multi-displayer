@@ -131,7 +131,8 @@ export default {
   position: sticky;
   top: 0;
   z-index: 100;
-  background-color: white;
+  /* background-color: white; */
+   background: var(--color-background);
 }
 
 .page-bar-section{
